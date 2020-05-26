@@ -1,5 +1,5 @@
 How to use:
-Place the script in a directory with the .ppsx files and the script
+Place the script in a directory with the .ppsx files and run the pyhton script "python main.py"
 
 
 Output:
