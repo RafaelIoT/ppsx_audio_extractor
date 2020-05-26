@@ -63,9 +63,7 @@ listdir = os.listdir()
 print(listdir)
 for f in listdir:
     if ".ppsx" in f:
-        print(f)
         voicePP = VoicePowerPoint(f)
         voicePP.searchAudioFiles()
         voicePP.mvToDir()
-        print(":..................")
 
